@@ -5,6 +5,8 @@ framework to interact with the [Star Wars](https://swapi.co/),
 [JSONplaceholder](https://jsonplaceholder.typicode.com), and
 [Twitter](https://developer.twitter.com/en/docs/api-reference-index) API's.
 
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
+
 ## Tasks :page_with_curl:
 
 * **0. Readme**
@@ -60,3 +62,4 @@ framework to interact with the [Star Wars](https://swapi.co/),
   a search request to the Twitter API with a given search string.
   * Usage: `./102-search_twitter.js <consumer  key> <consumer secret> <search string>.
   * Outputs 5 results in the format `[<Tweet ID>] <Tweet text> by <Tweet owner name>`.
+
